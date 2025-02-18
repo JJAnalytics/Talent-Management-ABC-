@@ -39,7 +39,8 @@ This analysis examines the distribution of educational qualifications and gender
 
 ## Insights & Recommendations
 
-•	The employment data reveals a gender imbalance within the company. Specifically, 40.33% of the workforce is comprised of women, while 59.67% is made up of men.                                                                                                               
+•	The employment data reveals a gender imbalance within the company. Specifically,40.33% of the workforce is comprised of women,while 59.67% is made up of men.
+
   Create a structured mentorship program where female employees can be paired with experienced female or male mentors. This can be based on career aspirations, skills development, or areas where employees want guidance.
 
 •	The company may prioritise hiring individuals with advanced educational backgrounds.
