@@ -16,7 +16,7 @@ This analysis examines the distribution of educational qualifications and gender
 
 •	What policies can be adopted to ensure fair opportunities for employees of all genders and educational backgrounds?
 
-<a> </a>
+<a href="https://github.com/JJAnalytics/Talent-Management-ABC-/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Cleaning & Transformation
 
@@ -32,7 +32,6 @@ This analysis examines the distribution of educational qualifications and gender
 
 •	Use DAX to create new measures. 
 
-- <a href="">View Dashboard</a>
 ## Dashboard
 
 
