@@ -34,6 +34,8 @@ This analysis examines the distribution of educational qualifications and gender
 
 ## Dashboard
 
+![image](https://github.com/user-attachments/assets/9b4adf44-a217-449d-82be-72ccc036e22d)
+
 
 ## Insights & Recommendations
 
@@ -47,10 +49,12 @@ This analysis examines the distribution of educational qualifications and gender
 ## Limitations & Potential Solutions
 
 •	Unconscious Bias in Hiring and Promotions.
+  
   Implement bias-free recruitment processes by removing gender-specific information from resumes and standardised interview questions.
   Provide unconscious bias training for hiring managers and decision-makers to promote awareness and reduce bias in evaluating candidates.
 
 •	Narrowing the Talent Pool.
+  
   Broaden the criteria for hiring by considering candidates with diverse educational backgrounds, including vocational training, certifications, or relevant work experience. 
   Implement a holistic recruitment process that values skills and practical knowledge alongside formal education.
 
