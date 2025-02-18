@@ -6,6 +6,8 @@ This analysis examines the distribution of educational qualifications and gender
 
 ## Dataset
 
+- <a href="">Dataset</a>
+
 ## Questions (KPIs)
 
 •	What is the current gender distribution in the workforce?
@@ -30,6 +32,7 @@ This analysis examines the distribution of educational qualifications and gender
 
 •	Use DAX to create new measures. 
 
+- <a href="">View Dashboard</a>
 ## Dashboard
 
 
