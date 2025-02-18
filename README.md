@@ -1,4 +1,4 @@
-# Talent-Management-ABC (created with Power BI)
+# Talent-Management-ABC (created using Power BI)
 
 ## Overview
 
